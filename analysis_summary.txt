@@ -1,0 +1,15 @@
+GLOBAL SUPERSTORE SALES ANALYSIS SUMMARY
+================================================================================
+
+Analysis Date: 2026-02-16
+
+Total Sales: $16,882.89
+Total Profit: $260.82
+Profit Margin: 1.54%
+Total Orders: 30
+Total Customers: 28
+
+
+Top Category: Technology
+Top Region: South
+Top Segment: Consumer
