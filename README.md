@@ -1,11 +1,3 @@
-# Global Superstore Sales Analysis
-## Complete Data Analytics Portfolio Project
-
-![Project Status](https://img.shields.io/badge/Status-Complete-success)
-![Tools](https://img.shields.io/badge/Tools-Python%20%7C%20Excel%20%7C%20Power%20BI-blue)
-![Skills](https://img.shields.io/badge/Skills-Data%20Analysis%20%7C%20Visualization%20%7C%20Dashboard-orange)
-
----
 
 ## 📋 Project Overview
 
@@ -324,15 +316,6 @@ Comprehensive guide for creating:
 
 ---
 
-## 🤝 Connect With Me
-
-- **LinkedIn:** [Your LinkedIn]
-- **GitHub:** [Your GitHub]
-- **Portfolio:** [Your Portfolio Website]
-- **Email:** [Your Email]
-
----
-
 ## 📄 License
 
 This project is for educational and portfolio purposes. Feel free to use it as a template for your own projects.
@@ -348,26 +331,5 @@ This project is for educational and portfolio purposes. Feel free to use it as a
 ---
 
 **Project Completed:** February 2026
-**Author:** [Your Name]
+**Author:** [Osunde Adekoya]
 **Version:** 1.0
-
----
-
-## ⭐ Project Highlights
-
-This project showcases a complete data analytics workflow that would be valuable in roles such as:
-- Data Analyst
-- Business Analyst
-- Business Intelligence Analyst
-- Data Scientist (entry-level)
-- Analytics Consultant
-
-The end-to-end nature of this project demonstrates the ability to:
-1. Collect and clean real-world messy data
-2. Perform meaningful statistical analysis
-3. Create professional Excel reports
-4. Design interactive dashboards
-5. Communicate insights to stakeholders
-6. Make data-driven recommendations
-
-Perfect for demonstrating practical skills to potential employers! 🚀
